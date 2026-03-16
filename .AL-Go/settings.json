@@ -1,4 +1,10 @@
 {
-  "appFolders": ["App1", "App2"],
-  "testFolders": ["TestApp"]
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup/workspace_compilationm/Actions/.Modules/settings.schema.json",
+  "appFolders": [
+    "App1",
+    "App2"
+  ],
+  "testFolders": [
+    "TestApp"
+  ]
 }

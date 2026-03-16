@@ -1,5 +1,9 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/aholstrup/workspace_compilationm/Actions/.Modules/settings.schema.json",
   "templateUrl": "https://github.com/microsoft/AL-Go@aholstrup/workspace_compilationm",
-  "preprocessorSymbols": ["CLEAN24"],
-  "features": []
+  "preprocessorSymbols": [
+    "CLEAN24"
+  ],
+  "features": [],
+  "templateSha": "0be0105909125a287db4a1d1a81a15cd7d5cfb35"
 }
